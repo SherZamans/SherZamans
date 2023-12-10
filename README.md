@@ -67,7 +67,8 @@ Are you seeking a design virtuoso to elevate your project? Look no further. I am
 ✨ Mockup Design - 💡<br> 
 ✨ UX Research - 📊
 <br> <br><br>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGh7Os2rwcjyg/article-cover_image-shrink_720_1280/0/1664780237543?e=2147483647&v=beta&t=3VRE1XgkyA77xJlTEdWohGz-IaWnH29s3O8GKPEb_oI">
+<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D5612AQGh7Os2rwcjyg/article-cover_image-shrink_720_1280/0/1664780237543?e=2147483647&v=beta&t=3VRE1XgkyA77xJlTEdWohGz-IaWnH29s3O8GKPEb_oI">
+
 🛠 Tools in My Arsenal:<br> 
 🔧 Figma<br> 
 🔧 Framer
