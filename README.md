@@ -34,7 +34,10 @@
 🌟 Illuminate Your Project with a Renowned UI/UX Maestro! 🌟
 
 Are you seeking a design virtuoso to elevate your project? Look no further. I am Sher Zaman, your dedicated UI/UX designer and highly skilled Framer designer/developer with over four years of professional experience. Certified by Google's Foundations of User Experience (UX) Design, I am not just a designer – I'm a passionate UX enthusiast.
-
+<br> <br> 
+🎓 Bachelor's degree in Computer Science.<br> 
+🎓Certified UX designer from Goggle.🏅
+<br> <br> 
 🌠 Why Choose Me:
 
 🎨 Specializing in UI/UX, I wield the magic of visual design, color theory, and typography.
